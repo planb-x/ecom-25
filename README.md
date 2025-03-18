@@ -30,13 +30,13 @@ System Features
 
 
 3. Technology Stack
-Component - Technology Used
-Backend - Java, Spring Boot, Spring MVC, Spring Data JPA
-Database - PostgreSQL / MySQL
-Caching -  Redis
-Build Tool - Maven or Gradle
-API Testing - Postman or any Clinet tool
-Version Control - Git & GitHub
+Component - Technology Used;
+Backend - Java, Spring Boot, Spring MVC, Spring Data JPA;
+Database - PostgreSQL / MySQL;
+Caching -  Redis;
+Build Tool - Maven or Gradle;
+API Testing - Postman or any Clinet tool;
+Version Control - Git & GitHub;
 
 
 4. Implementation Plan
