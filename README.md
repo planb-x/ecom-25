@@ -1,6 +1,6 @@
 # ecom-25
 
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGUzZGM0NTktNzFlMy00YTYwLTliMzQtOGZiZDgyYTVkNzgx%40thread.v2/0?context=%7b%22Tid%22%3a%22c4a8886b-f140-478b-ac47-249555c30afd%22%2c%22Oid%22%3a%2278146a87-200b-4bb2-8cc3-89a561c24719%22%7d
+
 
 
 Problem Statement: E-commerce Application Development
